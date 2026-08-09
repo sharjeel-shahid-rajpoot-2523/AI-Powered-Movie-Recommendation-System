@@ -6,7 +6,7 @@ ________________________________________________________________________________
 
 An intelligent movie recommendation engine built with Python and Machine Learning that suggests films tailored to user preferences. The system analyzes movie metadata (genres, cast, keywords, ratings, etc.) using content-based filtering to generate personalized recommendations, served through an interactive Streamlit web app.
 
-🔗 **Live App:** 
+🔗 **Live App:** https://ai-powered-movie-recommendation-system-p3ttm38gdss8app8iavkyze.streamlit.app/
 
 _____________________________________________________________________________________________________________________________________________________________________________
 
